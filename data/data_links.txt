@@ -1,0 +1,20 @@
+# Dataset
+
+The original datasets are too large to be stored on GitHub.
+
+Download them from:
+
+- ACN Dataset:
+https://ev.caltech.edu/dataset.html
+
+- UrbanEV Dataset:
+https://github.com/IntelligentSystemsLab/ST-EVCDP
+
+- master_dataset.csv:
+https://drive.google.com/file/d/1m_gtMPrVo2zaMIxSWM_axsX4cN-pFHtt/view?usp=sharing
+
+- featured_master_dataset.csv:
+https://drive.google.com/file/d/1lW2rSmttIZg2Uz_lecDDQ0Hm-tJ_SzM9/view?usp=sharing
+
+- acn_behavioral_dataset.csv:
+https://drive.google.com/file/d/1L5Tyu_p5KOo2wa4RGkNDvTZdwmCsFr0-/view?usp=sharing
